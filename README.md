@@ -19,6 +19,7 @@ Eightu is a 13.25u 40% keyboard. It features an island spacebar with 8u spacebar
 
 ## Pictures
 
+(renders are not up to date regarding Keylayouts, refer to KLEs above)
 ![](https://github.com/calvin-mcd/Eightu/blob/main/Images/eightu_stagger.jpg)
 ![](https://github.com/calvin-mcd/Eightu/blob/main/Images/eightu_ortho.png)
 
