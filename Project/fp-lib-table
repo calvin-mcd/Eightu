@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CherryMX")(type "KiCad")(uri "C:/Users/viva-/Documents/GitHub/libraries/sszczep-switch-libraries/footprints/CherryMX.pretty")(options "")(descr ""))
+)
