@@ -23,14 +23,9 @@ Eightu is a 13.25u 40% keyboard. It features an island spacebar with 8u spacebar
 ![](https://github.com/calvin-mcd/Eightu/blob/main/Images/eightu_stagger.jpg)
 ![](https://github.com/calvin-mcd/Eightu/blob/main/Images/eightu_ortho.png)
 
-## Todo
-
-- [ ] order & test pcb
-- [ ] create firmwarre
-
 ## Disclaimer
 
-Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. However, feel free to edit, modify and otherwise utilise these files.
+This PCB has been fully tested and is confirmed to work. However, no-one involved in this project is responsible for any usage issues that may arise. Order at your own risk. Feel free to edit, modify and otherwise utilise these files.
 
 ## License
 
