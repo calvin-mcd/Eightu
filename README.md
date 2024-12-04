@@ -3,6 +3,10 @@
 These are stagger & ortho pcbs for the Eightu by @obobobobo!
 Eightu is a 13.25u 40% keyboard. It features an island spacebar with 8u spacebar support (and many different bottom row options), usbc daughterboard, arrow cluster, 7degree typing angle, tadpole mount, m4 screws and big bezels.
 
+Please beware!!!
+The staggered pcb has been fully tested and is working. 
+The ortho version has not been fully tested. 
+
 ## Layout
 
 - Stagger
